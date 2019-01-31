@@ -1,2 +1,2 @@
 # pagina-web
-web de prueba
+Conociendo el mundo de git 
